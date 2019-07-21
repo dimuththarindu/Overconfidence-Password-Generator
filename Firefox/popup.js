@@ -26,6 +26,9 @@ function generatePassword() {
     if (x < 8) {
         x = 8;
     }
+	else if (x > 1000) {
+		x = 1000;
+	}
 
     x = x - 6;
 

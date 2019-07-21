@@ -26,6 +26,9 @@ function generatePassword() {
     if (x < 8) {
         x = 8;
     }
+	else if (x > 1000) {
+		x = 1000;
+	}
 
     x = x - 6;
 
@@ -36,8 +39,8 @@ function generatePassword() {
 
     output = getSafeString() + output + getSafeString();
 
-    document.getElementById("shgenpw").innerHTML = output;
-    document.getElementById("shpwlength").innerHTML = "Password Length: " + output.length;
+    document.getElementById("shgenpw").textContent = output;
+    document.getElementById("shpwlength").textContent = "Password Length: " + output.length;
 }
 
 function getSafeString() {
