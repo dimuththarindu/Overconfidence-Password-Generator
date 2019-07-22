@@ -23,10 +23,10 @@ function generatePassword() {
     var output = "";
     var x = document.getElementById("pwLength").value;
 
-    if (x < 8) {
+	if (x < 8) {
         x = 8;
     }
-	else if (x > 1000) {
+	else if (x > 1001) {
 		x = 1000;
 	}
 

@@ -1,65 +1,46 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 
 <head>
-    <title>Badass Password Generator</title>
+    <title>Overconfidence Password Generator</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="popup.css">
-    <link rel="stylesheet" type="text/css" href="css/style.css">
-	
-	<style>
-		html, body {
-			width: 400px;
-		}
-		
-		h3 {
-		   line-height: 2;
-		}
-    </style>
+	<link rel="stylesheet" href="styles.css">
 </head>
 
 <body>
-	<div class="container">
-		
-		<div class="text-center">
-			<h3 class="font-weight-bold">Badass Password Generator</h1>
-			<p>Create random, strong passwords</p>
-		</div>
+    <div class="main342">
 
-		<div align="center">
-			<div class="form-group">
-				<label>Password Length</label>
-				<input type="text" class="form-control" id="pwLength" value="32" style="text-align:center;" />
-			</div>
-			<div class="form-group">
-				<button class="btn btn-dark" id="btngen" >Generate</button>
-				<button class="clipboard btn btn-dark" id="btncopy" >Copy to clipboard</button>
-			</div>
-			<div class="panel panel-default">
-				<div class="panel-body">
-					<p class="text-secondary small" id="shpwlength">Password length will appear here.</p>
-					<p class="text-center text-success text-monospace" id="shgenpw">Your password will appear here.</p>
-				</div>
-			</div>
-		</div>
+        <div>
+            <h1>Overconfidence</h1>
+            <h2>Password Generator</h2>
+            <div class="subhead456">Create random, strong passwords</div>
 
-		<div>
-			<!-- Copyright -->
-			<div class="footer-copyright text-center text-secondary small">
-				Generated passwords will not be stored. <br>
-				It's recommended to use a password manager (LastPass, Bitwarden, etc) to store these passwords.<br>
-			</div>
-			<br>
-			<!-- Copyright -->
-		</div>
-		
-	</div>
-	
-    
+            <div>
+                <label>Password Length</label>
+                <input type="text" id="pwLength" placeholder="8" />
+            </div>
+            <div>
+                <button id="btngen" class="button454">Generate</button>
+                <button id="btncopy" class="button454">Copy to clipboard</button>
+            </div>
+            <div>
+                <div>
+                    <p id="shgenpw" class="shpw122">Your password will appear here.</p>
+                    <p id="shpwlength" class="txtsmall4">Password length will appear here.</p>
+                </div>
+            </div>
+
+            <div class="txtsmall4">
+                Passwords are generated locally and they will not be stored.
+                <br> It's recommended to use a password manager (LastPass, Bitwarden, etc) to store these passwords.
+                <br>
+            </div>
+        </div>
+
+    </div>
 
     <script type="text/javascript" charset="utf-8" src="popup.js"></script>
-	<script src="clipboard.js"></script>
 </body>
 
 </html>
