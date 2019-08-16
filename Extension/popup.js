@@ -1,4 +1,3 @@
-
 document.getElementById("btngen").addEventListener("click", funGeneratePassword);
 document.getElementById("btncopy").addEventListener("click", funCopyPassword);
 
