@@ -1,12 +1,33 @@
 {
-    "manifest_version": 2,
 	"name": "Overconfidence Password Generator",    
+	"version": "3.3",
+    "manifest_version": 2,
+	
     "description": "Create random, strong passwords",
-	"version": "3.0",
-	"icons": {"128": "images/icon_128.png"},
+	"developer": {
+		"name": "DT"
+	},
+	"icons": 
+	{
+		 "16": "images/icon_16.png",
+		 "20": "images/icon_20.png",
+		 "24": "images/icon_24.png",
+		 "32": "images/icon_32.png",
+		 "40": "images/icon_40.png",
+		 "48": "images/icon_48.png",
+		 "64": "images/icon_64.png",
+		 "96": "images/icon_96.png",
+		"128": "images/icon_128.png"
+	},
+	
 	"browser_action": {
 	  "default_icon": "images/icon.png",
 	  "default_popup": "popup.html"
 	},
-	"permissions": ["activeTab"]    
+	"permissions": 
+	[
+		"clipboardWrite",
+		"clipboardRead",
+		"activeTab"
+	]    
 }
