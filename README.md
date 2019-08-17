@@ -15,8 +15,9 @@ Example...
 - w!X투紧럼û크ા切誰ෑពઝ퍼후阱운ჰ응ണ당番요χాਤdI$
 
 Firefox version: [https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword](https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/)  
-Online version can be accessed here: [https://dimuththarindu.github.io/Password-Generator](https://dimuththarindu.github.io/Password-Generator/)
-  
+Online version can be accessed here: [https://dimuththarindu.github.io/Password-Generator](https://dimuththarindu.github.io/Password-Generator/)  
+Windows version can be downloaded here: [https://github.com/dimuththarindu/Desktop-Password-Generator/releases](https://github.com/dimuththarindu/Desktop-Password-Generator/releases)
+
 ### It seems like an overkill?
 Yes. It is. But then again, you're using a password manager. So, why not. (As long as these passwords are supported)
 On the other hand, sometimes cracking passwords can be easier than you think.
