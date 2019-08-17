@@ -14,7 +14,7 @@ Example...
 - JH+话ñ簡చ並ズ线ւಘవൊ폭চ록័წोΓுए소فမ米yy^
 - w!X투紧럼û크ા切誰ෑពઝ퍼후阱운ჰ응ണ당番요χాਤdI$
 
-Firefox version: [https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword](https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/)  
+Firefox extension: [https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword](https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/)  
 Online version can be accessed here: [https://dimuththarindu.github.io/Password-Generator](https://dimuththarindu.github.io/Password-Generator/)  
 Windows version can be downloaded here: [https://github.com/dimuththarindu/Desktop-Password-Generator/releases](https://github.com/dimuththarindu/Desktop-Password-Generator/releases)
 
