@@ -16,6 +16,11 @@ Example...
 
 Firefox version: [https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword](https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/)  
 Online version can be accessed here: [https://dimuththarindu.github.io/Password-Generator](https://dimuththarindu.github.io/Password-Generator/)
+ 
+<img src="https://raw.githubusercontent.com/dimuththarindu/Overconfidence-Password-Generator/master/Image_01.png?token=AGFZCZCLL4NIRU7E4R67HHC5K7CPI" width="600em">  
+
+<img src="https://raw.githubusercontent.com/dimuththarindu/Overconfidence-Password-Generator/master/Image_02.png?token=AGFZCZEFNXDY6OX5VTO4KJ25K7DGK" width="600em">
+
 
 ### It seems like an overkill?
 Yes. It is. But then again, you're using a password manager. So, why not. (As long as these passwords are supported)
