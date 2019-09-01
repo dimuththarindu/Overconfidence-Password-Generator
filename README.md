@@ -1,6 +1,10 @@
 # Overconfidence Password Generator
 
-This add-on will create random, strong passwords locally using English and non-keyboard characters. They will be extremely hard to crack and impossible to guess. Generated passwords will not be stored in anywhere. Therefore, you'll have to use a password manager to store these passwords. Otherwise, you'll not be able to remember generated passwords.
+This extension will create random, strong passwords locally using keyboard (Ex: A, G, %, G, etc) and non-keyboard characters (Ex: ⢕, ㄉ, ♛, ⶰ, タ, etc). 
+These passwords will be extremely hard to crack and impossible to guess. Therefore, it is recommended to use a password manager to store passwords. 
+Generated passwords will not be stored in anywhere. 
+
+<b>Please note that there might be hidden risks of using these passwords. For example, some websites may not support these characters. Therefore, use this at your own risk.</b>
 
 Example...
 - WmBጧбਾ마ઊအ쉬گ害П下림스散კ었ี必ຟ종声い带常(4%
@@ -14,16 +18,16 @@ Example...
 - JH+话ñ簡చ並ズ线ւಘవൊ폭চ록័წोΓுए소فမ米yy^
 - w!X투紧럼û크ા切誰ෑពઝ퍼후阱운ჰ응ണ당番요χాਤdI$
 
-Firefox extension: [https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword](https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/)  
-Online version can be accessed here: [https://dimuththarindu.github.io/Password-Generator](https://dimuththarindu.github.io/Password-Generator/)  
-Windows version can be downloaded here: [https://github.com/dimuththarindu/Desktop-Password-Generator/releases](https://github.com/dimuththarindu/Desktop-Password-Generator/releases)
-
+Firefox extension: <a href="https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/">https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword</a>  
+Opera extension: <a href="https://addons.opera.com/en/extensions/details/overconfidence-password-generator/">https://addons.opera.com/en/extensions/details/overconfidence-password-generator</a>  
+Online version can be accessed here: <a href="https://dimuththarindu.github.io/Password-Generator/">            https://dimuththarindu.github.io/Password-Generator</a>   
+Windows version can be downloaded here: <a href="https://github.com/dimuththarindu/Desktop-Password-Generator/releases">https://github.com/dimuththarindu/Desktop-Password-Generator/releases</a>  
+  
 ### It seems like an overkill?
-Yes. It is. But then again, you're using a password manager. So, why not. (As long as these passwords are supported)
-On the other hand, sometimes cracking passwords can be easier than you think.
+Yes. It is. However, sometimes cracking passwords can be easier than you think.
 
-### How difficult is it to crack a password anyway?
-See for yourself: [https://youtu.be/7U-RbOKanYs](https://youtu.be/7U-RbOKanYs)
+### How difficult is it to crack a password?
+See for yourself: <a href="https://youtu.be/7U-RbOKanYs">https://youtu.be/7U-RbOKanYs</a>
 
 ### What are good password managers?
 - LastPass - [https://www.lastpass.com](https://www.lastpass.com)
@@ -31,5 +35,3 @@ See for yourself: [https://youtu.be/7U-RbOKanYs](https://youtu.be/7U-RbOKanYs)
 - Dashlane - [https://www.dashlane.com](https://www.dashlane.com)
 - 1Password - [https://1password.com](https://1password.com)
 - Keeper - [https://keepersecurity.com](https://keepersecurity.com)
-
-#### Please note that some websites may not support these passwords.
