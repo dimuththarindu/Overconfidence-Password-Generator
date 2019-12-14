@@ -18,8 +18,7 @@ Example...
 - JH+话ñ簡చ並ズ线ւಘవൊ폭চ록័წोΓுए소فမ米yy^
 - w!X투紧럼û크ા切誰ෑពઝ퍼후阱운ჰ응ണ당番요χాਤdI$
 
-Firefox extension: <a href="https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/">https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword</a>  
-Opera extension: <a href="https://addons.opera.com/en/extensions/details/overconfidence-password-generator/">https://addons.opera.com/en/extensions/details/overconfidence-password-generator</a>  
+Firefox extension: <a href="https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword/">https://addons.mozilla.org/en-US/firefox/addon/overconfidencepassword</a>
 Online version can be accessed here: <a href="https://dimuththarindu.github.io/Password-Generator/">            https://dimuththarindu.github.io/Password-Generator</a>   
 Windows version can be downloaded here: <a href="https://github.com/dimuththarindu/Desktop-Password-Generator/releases">https://github.com/dimuththarindu/Desktop-Password-Generator/releases</a>  
   
